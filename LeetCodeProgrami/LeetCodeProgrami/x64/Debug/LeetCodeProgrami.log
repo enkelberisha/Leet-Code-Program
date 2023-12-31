@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(331,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(331,56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(394,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(463,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\enkel\Desktop\LeetCodeProgrami\LeetCodeProgrami\Source.cpp(309): warning C4715: 'maximum69Number': not all control paths return a value
+  LeetCodeProgrami.vcxproj -> C:\Users\enkel\Desktop\LeetCodeProgrami\x64\Debug\LeetCodeProgrami.exe

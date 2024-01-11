@@ -179,12 +179,12 @@ vector<int> findWordsContaining(vector<string> words, char theLetterToFind)
                 }
                 else if (i == words.size() - 1 && words.size() - test == 1)
                 {
-                    cout << "\"," << words[i] << "\"." << endl;
+                    cout << ",\"" << words[i] << "\"." << endl;
                     test++;
                 }
                 else
                 {
-                    cout << "\"," << words[i] << "\"";
+                    cout << ",\"" << words[i] << "\"";
                     test++;
                 }
 
@@ -946,7 +946,7 @@ restart:
             }
             else
             {
-                cout << i + 1 << ".\"" << words[i] << ".\".\n";
+                cout << i + 1 << ".\"" << words[i] << "\".\n";
             }
         }
         cout << endl;
